@@ -1,4 +1,4 @@
-# STAT5230 Final Project: Crime Analysis in Los Angeles (2020–2024)
+# Crime Analysis in Los Angeles (2020–2024)
 
 ## Overview
 This project analyzes crime data in Los Angeles from 2020 to 2024 to address three research questions:
