@@ -1,5 +1,6 @@
 # Crime Analysis in Los Angeles (2020–2024)
 
+![Los Angeles Police Department]([https://live.staticflickr.com/4076/4753787639_eca198f85d_b.jpg])
 ## Overview
 This project analyzes crime data in Los Angeles from 2020 to 2024 to address three research questions:
 1. **Have crime types changed over the last five years?**
